@@ -16,7 +16,7 @@ Both products are similar, in that they are designed to manage applications. The
 
 image::aep_vs_ose_diagram.jpg["Atomic Enterprise Platform and OpenShift Enterprise"]
 
-As OpenShift Enterprise is a more robust product, built for starting applications from nothing, it has a number of features that are not available in Atomic Enterprise Platform, such as:
+As OpenShift Enterprise is more of a complete Platform-as-a-Service, built for starting applications from nothing, it has a number of features that are not available in Atomic Enterprise Platform, such as:
 
 * Source-to-image (STI) builder
 * Docker builder
